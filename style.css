@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+h1{
+    color: #328da8;
+}
+.watch {
+    text-align: center;
+    margin: 100px auto;
+    color: #328da8;
+}
+.time {
+    font-size: 3em;
+    font-weight: bold;
+}
+button {
+    font-size: 1.2em;
+    margin: 10px;
+    padding: 10px 20px;
+}
+
+#lap-list {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+#lap-list li {
+    font-size: 1.2em;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #333;
+    background-color: #f0f0f0;
+}
